@@ -1,4 +1,3 @@
-THIS IS INTELLIJ PROJECT
 
 TO RUN CODE
 cd ~/Pretty_Printing/out/artifacts/
